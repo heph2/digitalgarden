@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/digital-garden/","tags":["gardenEntry"]}
 ---
 
+## Digital Garden
+
 Hi! 
 This is my attempt to publish my unpolished, unfinished and uninteresting notes. Every-time i told my self that i should posts more stuff on my blog ecc ecc.
 
