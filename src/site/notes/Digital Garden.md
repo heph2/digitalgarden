@@ -17,6 +17,10 @@ Here you'll find some notes about books, selfhosting, programming, movies, music
 
 Just two words about me. Currently i'm a working as a DevOps Engineer for a healthcare IT company based in Italy. My work is mostly thinker with kubernetes, and cloud stuff... And i'm also a CompSci student, largely out of course (currently rocking 1 Exam passed per session lol).
 
+### On LLMs
+
+The content on this blog is written by me and only me. No LLMs are used for create those posts. I'm not strictly against LLMs, but i do not think that humans should delegate the creation of any kind of creative stuff (blog posts included) to machines. 
+
 ### Contacts
 
 You can reach me on [Mastodon](https://livellosegreto.it/@pek) [Bluesky](https://bsky.app/profile/bsky.mbauce.com) [Email](mailto:me@mbauce.com) [Github](https://github.com/heph2)
