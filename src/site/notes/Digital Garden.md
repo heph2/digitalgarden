@@ -19,7 +19,7 @@ Just two words about me. Currently i'm a working as a DevOps Engineer for a heal
 
 ### On LLMs
 
-The content on this blog is written by me and only me. No LLMs are used for create those posts. I'm not strictly against LLMs, but i do not think that humans should delegate the creation of any kind of creative stuff (blog posts included) to machines. 
+The content of this blog is written by me and only me. No LLMs are used for creating those posts. I'm not strictly against LLMs, but i do not think that humans should delegate the creation of any kind of creative stuff (blog posts included) to machines.
 
 ### Contacts
 
